@@ -1,4 +1,4 @@
-[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-f059dc9a6f8d3a56e377f745f24479a46679e63a5d9fe6f495e02850cd0d8118.svg)](https://classroom.github.com/online_ide?assignment_repo_id=6981959&assignment_repo_type=AssignmentRepo)
+[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-f059dc9a6f8d3a56e377f745f24479a46679e63a5d9fe6f495e02850cd0d8118.svg)](https://classroom.github.com/online_ide?assignment_repo_id=6758810&assignment_repo_type=AssignmentRepo)
 # Створення, виконання та запуск Java-програм 
 
 Це перша лабораторна робота в нашому курсі з ООП, в ході якої ви маєте отримати навички написання (чи редагування), компіляції та перевірки працездатності (запуску) Java-програм. Робота дуже маленька та складається з двох завдань.
@@ -67,4 +67,4 @@ public class Quotation {
 * на "**чотири**" - те, що на "три", плюс, добре оформлені файли task1.md та task2.md
 * на "**п'ять**" - те, що на "чотири", плюс, змінити код завдань таким чином, щоб:
   * колір сорочки зберігався та виводився у вигляді рядка (red, blue, green, unset) 
-  * окрім цитати виводилось ім'я того, кому вона належить 
+  * окрім цитати виводилось ім'я того, кому вона належить
